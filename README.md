@@ -4,3 +4,16 @@
 - 💞️ I’m looking to collaborate on different web projects to learn more.
 - 📫 How to reach me: cerdasalfonso47@gmail.com
 - ⚡ Fun fact: I really like music and video games.
+- 🎓What I would like to learn:
+        - JavaScript          - React
+                              - Vue                 
+                              - Angular
+                              - Node.js
+                              - TypeScript
+                              - Express.js
+                              - Nest.js
+        - Java                - Spring Boot
+        - Python              - Django
+        - PHP                 - Laravel
+        - CSS                 - Tailwind
+                              - Boostrap

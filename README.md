@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JAAC2104
+- 👀 I’m interested in full-stack web deveopment, specially with JS frameworks and Spring Boot.
+- 🌱 I’m currently learning Spring Boot for Java.
+- 💞️ I’m looking to collaborate on different web projects to learn more.
+- 📫 How to reach me: cerdasalfonso47@gmail.com
+- ⚡ Fun fact: I really like music and video games.

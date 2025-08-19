@@ -1,19 +1,17 @@
-- 👋 Hi, I’m @JAAC2104
+- 👋 Hi, I’m Justin Alvarado
 - 👀 I’m interested in full-stack web deveopment, specially with JS frameworks and Spring Boot.
-- 🌱 I’m currently learning Spring Boot for Java.
+- 🌱 I’m currently learning Meta Front-End Development.
 - 💞️ I’m looking to collaborate on different web projects to learn more.
 - 📫 How to reach me: cerdasalfonso47@gmail.com
 - ⚡ Fun fact: I really like music and video games.
 - 🎓What I would like to learn:
-        - JavaScript          - React
-                              - Vue                 
-                              - Angular
+        - JavaScript          - React                
                               - Node.js
                               - TypeScript
                               - Express.js
-                              - Nest.js
         - Java                - Spring Boot
         - Python              - Django
-        - PHP                 - Laravel
         - CSS                 - Tailwind
                               - Boostrap
+        - AWS
+        - SQL
